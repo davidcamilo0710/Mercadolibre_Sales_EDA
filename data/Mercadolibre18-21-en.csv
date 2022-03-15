@@ -746,7 +746,7 @@ Eighteen,3/07/2018,MercadoLibre,Pacifica,Valle del Cauca,Cali,Envia+4,Trade Equi
 Eighteen,3/07/2018,MercadoLibre,Pacifica,Valle del Cauca,Cali,Envia+4,Trade Equipment,Merchandise Labeling,5,0,409800,0
 Eighteen,3/07/2018,MercadoLibre,Pacifica,Valle del Cauca,Cali,Envia+4,Home appliances,Refrigerators,6,0.2,873408,43670.4
 Eighteen,3/07/2018,MercadoLibre,Pacifica,Valle del Cauca,Cali,Envia+4,Home appliances,Refrigerators,2,0.2,963136,108352.8
-Eighteen,4/07/2018,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia-3,Home appliances,Spare Parts,2,0,17920,5555.2
+Eighteen,4/07/2018,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia-3,Home appliances,Spare Parts,2,0,17920,5555.2
 Eighteen,4/07/2018,MercadoLibre,Caribe,Cesar,Agustin Codazzi,Servientrega-2,Trade Equipment,Thermal paper,9,0,116640,55987.2
 Eighteen,4/07/2018,MercadoLibre,Caribe,Cesar,Agustin Codazzi,Servientrega-2,Industrial,Drones,3,0,401940,100485
 Eighteen,5/07/2018,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia+4,Trade Equipment,Shelving,5,0.8,66560,-49920
@@ -1335,9 +1335,9 @@ Eighteen,16/10/2018,MercadoLibre,Andina,Antioquia,Bello,Servientrega-2,Industria
 Eighteen,17/10/2018,MercadoLibre,Amazonia,Caqueta,Florencia,Envia+4,Trade Equipment,Shelving,3,0.7,73764,-25817.4
 Eighteen,17/10/2018,MercadoLibre,Orinoquia,Meta,Mapiripan,Servientrega+3,Industrial,Printers,3,0.2,239952,-17996.4
 Eighteen,17/10/2018,MercadoLibre,Orinoquia,Meta,Villavicencio,Servientrega+3,Home appliances,Spare Parts,2,0.6,10624,-1593.6
-Eighteen,18/10/2018,MercadoLibre,Amazonia,Amazonas,El Encanto,Servientrega+3,Trade Equipment,Merchandise Labeling,3,0,551940,22077.6
-Eighteen,18/10/2018,MercadoLibre,Amazonia,Amazonas,El Encanto,Servientrega+3,Industrial,Drones,5,0,2789900,725374
-Eighteen,18/10/2018,MercadoLibre,Amazonia,Amazonas,El Encanto,Servientrega+3,Home appliances,Refrigerators,6,0,1091760,141928.8
+Eighteen,18/10/2018,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Merchandise Labeling,3,0,551940,22077.6
+Eighteen,18/10/2018,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Industrial,Drones,5,0,2789900,725374
+Eighteen,18/10/2018,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Home appliances,Refrigerators,6,0,1091760,141928.8
 Eighteen,18/10/2018,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Weigh Scales,6,0.2,105024,39384
 Eighteen,18/10/2018,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Merchandise Labeling,6,0.2,373824,-35046
 Eighteen,18/10/2018,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Thermal paper,4,0.2,20096,6280
@@ -1622,7 +1622,7 @@ Eighteen,26/11/2018,MercadoLibre,Andina,Antioquia,Sabanalarga,Envia+4,Trade Equi
 Eighteen,26/11/2018,MercadoLibre,Andina,Antioquia,Envigado,Envia+4,Trade Equipment,Shelving,3,0.2,208368,67719.6
 Eighteen,27/11/2018,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Trade Equipment,Lights,2,0,7520,2632
 Eighteen,27/11/2018,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Home appliances,Spare Parts,5,0,399800,79960
-Eighteen,28/11/2018,MercadoLibre,Amazonia,Amazonas,El Encanto,Envia+4,Trade Equipment,Strip Printer,3,0,29340,7921.8
+Eighteen,28/11/2018,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Strip Printer,3,0,29340,7921.8
 Eighteen,28/11/2018,MercadoLibre,Andina,Boyaca,Tunja,Envia+4,Trade Equipment,Shelving,2,0.7,25656,-8979.6
 Eighteen,28/11/2018,MercadoLibre,Andina,Antioquia,Bello,Servientrega-2,Trade Equipment,Furnitures,2,0,14720,294.4
 Eighteen,28/11/2018,MercadoLibre,Andina,Antioquia,Bello,Servientrega-2,Trade Equipment,Dust Extractors,4,0,82800,39744
@@ -1742,8 +1742,8 @@ Eighteen,17/12/2018,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Tr
 Eighteen,19/12/2018,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Shelving,1,0.7,4086,-1498.2
 Eighteen,19/12/2018,MercadoLibre,Caribe,Bolivar,Cartagena,Envia+4,Industrial,Printers,5,0.2,495600,-18585
 Eighteen,19/12/2018,MercadoLibre,Orinoquia,Meta,Guamal,Envia+4,Trade Equipment,Shelving,3,0.8,8856,-6863.4
-Eighteen,19/12/2018,MercadoLibre,Amazonia,Amazonas,La Chorrera,Servientrega+3,Trade Equipment,Furnitures,1,0,14540,3925.8
-Eighteen,19/12/2018,MercadoLibre,Amazonia,Amazonas,La Chorrera,Servientrega+3,Home appliances,Refrigerators,14,0,3639720,327574.8
+Eighteen,19/12/2018,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Furnitures,1,0,14540,3925.8
+Eighteen,19/12/2018,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Home appliances,Refrigerators,14,0,3639720,327574.8
 Eighteen,19/12/2018,MercadoLibre,Andina,Antioquia,Medellin,Envia-3,Trade Equipment,Dust Extractors,2,0,29240,13742.8
 Eighteen,19/12/2018,MercadoLibre,Andina,Antioquia,Medellin,Envia-3,Trade Equipment,Lights,5,0,45100,17589
 Eighteen,19/12/2018,MercadoLibre,Andina,Antioquia,Medellin,Envia-3,Industrial,Drones,5,0.2,1167600,145950
@@ -2120,7 +2120,7 @@ Nineteen,12/03/2019,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Industrial
 Nineteen,12/03/2019,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Trade Equipment,Shelving,4,0.2,46720,15768
 Nineteen,12/03/2019,MercadoLibre,Andina,Antioquia,Bello,Envia+4,Home appliances,Air-conditioning,3,0.15,718998,-29605.8
 Nineteen,12/03/2019,MercadoLibre,Caribe,Bolivar,Cartagena,Envia+4,Home appliances,Spare Parts,3,0.2,155904,25334.4
-Nineteen,12/03/2019,MercadoLibre,Amazonia,Amazonas,La Chorrera,Servientrega+3,Trade Equipment,Shelving,6,0,305520,149704.8
+Nineteen,12/03/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Shelving,6,0,305520,149704.8
 Nineteen,12/03/2019,MercadoLibre,Caribe,Bolivar,Cartagena,Envia+4,Industrial,Drones,2,0.2,211168,18477.2
 Nineteen,12/03/2019,MercadoLibre,Caribe,Bolivar,Cartagena,Envia+4,Trade Equipment,Strip Printer,2,0.2,18688,2336
 Nineteen,13/03/2019,MercadoLibre,Pacifica,Valle del Cauca,Cali,Envia-3,Home appliances,Air-conditioning,2,0,283920,79497.6
@@ -2134,8 +2134,8 @@ Nineteen,16/03/2019,MercadoLibre,Orinoquia,Meta,Guamal,Servientrega+3,Trade Equi
 Nineteen,16/03/2019,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Home appliances,Washing machines,2,0,343920,89419.2
 Nineteen,16/03/2019,MercadoLibre,Andina,Antioquia,Medellin,Envia+4,Home appliances,Spare Parts,1,0,86260,36229.2
 Nineteen,16/03/2019,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Industrial,Drones,2,0,171800,5154
-Nineteen,16/03/2019,MercadoLibre,Amazonia,Amazonas,Tarapaca,Servientrega+3,Trade Equipment,Dust Extractors,5,0,983100,481719
-Nineteen,16/03/2019,MercadoLibre,Amazonia,Amazonas,Tarapaca,Servientrega+3,Trade Equipment,Weigh Scales,2,0,14760,6789.6
+Nineteen,16/03/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Dust Extractors,5,0,983100,481719
+Nineteen,16/03/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Weigh Scales,2,0,14760,6789.6
 Nineteen,16/03/2019,MercadoLibre,Andina,Bogota,Bogota DC,Servientrega+3,Trade Equipment,Strip Printer,3,0,35040,12614.4
 Nineteen,17/03/2019,MercadoLibre,Andina,Bogota,Bogota DC,Servientrega+3,Industrial,Printers,1,0,30040,5407.2
 Nineteen,17/03/2019,MercadoLibre,Andina,Bogota,Bogota DC,Servientrega+3,Trade Equipment,Merchandise Labeling,2,0,67640,18262.8
@@ -2779,8 +2779,8 @@ Nineteen,25/07/2019,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Tr
 Nineteen,25/07/2019,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Trade Equipment,Thermal paper,2,0,25920,12441.6
 Nineteen,25/07/2019,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Home appliances,Air-conditioning,5,0,1409800,112784
 Nineteen,25/07/2019,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Home appliances,Refrigerators,2,0.2,1123136,56156.8
-Nineteen,25/07/2019,MercadoLibre,Amazonia,Amazonas,El Encanto,Envia+4,Trade Equipment,Weigh Scales,9,0,196920,98460
-Nineteen,25/07/2019,MercadoLibre,Amazonia,Amazonas,El Encanto,Envia+4,Home appliances,Washing machines,2,0,717160,78887.6
+Nineteen,25/07/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Weigh Scales,9,0,196920,98460
+Nineteen,25/07/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Home appliances,Washing machines,2,0,717160,78887.6
 Nineteen,25/07/2019,MercadoLibre,Andina,Antioquia,Medellin,Envia+4,Industrial,Drones,5,0.2,1247920,77995
 Nineteen,26/07/2019,MercadoLibre,Orinoquia,Arauca,Saravena,Envia-3,Home appliances,Washing machines,3,0.5,786330,-40889.16
 Nineteen,26/07/2019,MercadoLibre,Andina,Antioquia,Bello,Envia+4,Trade Equipment,Weigh Scales,2,0,335720,157788.4
@@ -2830,11 +2830,11 @@ Nineteen,8/08/2019,MercadoLibre,Andina,Boyaca,Aquitania,Envia+4,Trade Equipment,
 Nineteen,8/08/2019,MercadoLibre,Andina,Antioquia,Bello,Servientrega-2,Home appliances,Refrigerators,1,0.2,289568,21717.6
 Nineteen,8/08/2019,MercadoLibre,Andina,Huila,Neiva,Servientrega+3,Trade Equipment,Strip Printer,2,0,79320,23796
 Nineteen,8/08/2019,MercadoLibre,Andina,Huila,Neiva,Servientrega+3,Trade Equipment,Payment Machines,2,0,227840,66073.6
-Nineteen,8/08/2019,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia-3,Trade Equipment,Shelving,5,0,67500,33750
+Nineteen,8/08/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia-3,Trade Equipment,Shelving,5,0,67500,33750
 Nineteen,8/08/2019,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Industrial,Printers,1,0,159980,57592.8
 Nineteen,9/08/2019,MercadoLibre,Andina,Antioquia,Concordia,Envia-3,Trade Equipment,Thermal paper,5,0,52800,23760
 Nineteen,9/08/2019,MercadoLibre,Andina,Antioquia,Concordia,Envia-3,Trade Equipment,Merchandise Labeling,6,0,83760,1675.2
-Nineteen,9/08/2019,MercadoLibre,Amazonia,Amazonas,El Encanto,Envia+4,Home appliances,Spare Parts,8,0,42720,16233.6
+Nineteen,9/08/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Home appliances,Spare Parts,8,0,42720,16233.6
 Nineteen,10/08/2019,MercadoLibre,Andina,Antioquia,Bello,Envia+4,Home appliances,Spare Parts,5,0,291800,125474
 Nineteen,10/08/2019,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia+4,Trade Equipment,Strip Printer,2,0.2,6880,1118
 Nineteen,10/08/2019,MercadoLibre,Orinoquia,Meta,Acacias,Envia+4,Home appliances,Spare Parts,3,0.6,145560,-14192.1
@@ -3065,9 +3065,9 @@ Nineteen,15/09/2019,MercadoLibre,Pacifica,Narino,Barbacoas,Servientrega+3,Trade 
 Nineteen,15/09/2019,MercadoLibre,Caribe,Cesar,Agustin Codazzi,Envia+4,Trade Equipment,Shelving,2,0,14320,6873.6
 Nineteen,15/09/2019,MercadoLibre,Andina,Bogota,Bogota DC,Servientrega+3,Home appliances,Air-conditioning,1,0.2,92768,2319.2
 Nineteen,15/09/2019,MercadoLibre,Andina,Bogota,Bogota DC,Servientrega+3,Trade Equipment,Thermal paper,2,0,25920,12441.6
-Nineteen,15/09/2019,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia+4,Home appliances,Washing machines,2,0,1603920,400980
-Nineteen,15/09/2019,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia+4,Industrial,Drones,3,0,119940,0
-Nineteen,15/09/2019,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia+4,Home appliances,Refrigerators,7,0,2113720,612978.8
+Nineteen,15/09/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Home appliances,Washing machines,2,0,1603920,400980
+Nineteen,15/09/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Industrial,Drones,3,0,119940,0
+Nineteen,15/09/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Home appliances,Refrigerators,7,0,2113720,612978.8
 Nineteen,15/09/2019,MercadoLibre,Andina,Antioquia,Medellin,Servientrega+3,Trade Equipment,Shelving,2,0.2,99136,34697.6
 Nineteen,15/09/2019,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Merchandise Labeling,2,0.2,294368,-29436.8
 Nineteen,16/09/2019,MercadoLibre,Andina,Tolima,Rovira,Envia+4,Trade Equipment,Weigh Scales,4,0,62240,29252.8
@@ -3869,7 +3869,7 @@ Nineteen,31/12/2019,MercadoLibre,Andina,Antioquia,Medellin,Servientrega-2,Trade 
 Nineteen,31/12/2019,MercadoLibre,Caribe,La Guajira,Riohacha,Servientrega+3,Trade Equipment,Shelving,2,0,14080,6617.6
 Nineteen,31/12/2019,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Trade Equipment,Shelving,3,0.2,14304,4648.8
 Nineteen,31/12/2019,MercadoLibre,Orinoquia,Casanare,Yopal,Envia+4,Trade Equipment,Shelving,2,0,14320,6873.6
-Nineteen,31/12/2019,MercadoLibre,Amazonia,Amazonas,Puerto Santander,Servientrega+3,Trade Equipment,Shelving,2,0,14320,6873.6
+Nineteen,31/12/2019,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Shelving,2,0,14320,6873.6
 Nineteen,31/12/2019,MercadoLibre,Orinoquia,Meta,Puerto Rico,Envia+4,Trade Equipment,Merchandise Labeling,2,0.2,305376,-26720.4
 Nineteen,31/12/2019,MercadoLibre,Orinoquia,Meta,Puerto Rico,Envia+4,Trade Equipment,Lights,2,0.2,6976,1133.6
 Nineteen,31/12/2019,MercadoLibre,Orinoquia,Meta,Puerto Rico,Envia+4,Trade Equipment,Furnitures,2,0.2,11776,-1324.8
@@ -4552,7 +4552,7 @@ Twenty,6/05/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipme
 Twenty,6/05/2020,MercadoLibre,Amazonia,Guaviare,San Jose del Guaviare,Envia+4,Trade Equipment,Merchandise Labeling,2,0,720760,187397.6
 Twenty,6/05/2020,MercadoLibre,Amazonia,Guaviare,San Jose del Guaviare,Envia+4,Trade Equipment,Strip Printer,2,0,22320,5580
 Twenty,6/05/2020,MercadoLibre,Amazonia,Guaviare,San Jose del Guaviare,Envia+4,Trade Equipment,Dust Extractors,3,0,29880,13744.8
-Twenty,6/05/2020,MercadoLibre,Amazonia,Amazonas,El Encanto,Servientrega+3,Trade Equipment,Shelving,5,0,45500,22750
+Twenty,6/05/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Shelving,5,0,45500,22750
 Twenty,6/05/2020,MercadoLibre,Andina,Antioquia,Rionegro,Envia-3,Trade Equipment,Payment Machines,4,0,116480,31449.6
 Twenty,6/05/2020,MercadoLibre,Pacifica,Valle del Cauca,Cali,Envia+4,Trade Equipment,Furnitures,6,0,122760,31917.6
 Twenty,8/05/2020,MercadoLibre,Amazonia,Amazonas,La Pedrera,Envia+4,Trade Equipment,Strip Printer,7,0,394100,118230
@@ -4687,7 +4687,7 @@ Twenty,22/05/2020,MercadoLibre,Caribe,Cesar,Aguachica,Servientrega-2,Trade Equip
 Twenty,22/05/2020,MercadoLibre,Andina,Antioquia,Medellin,Envia+4,Industrial,Drones,2,0.2,444768,44476.8
 Twenty,23/05/2020,MercadoLibre,Andina,Antioquia,Bello,Envia+4,Home appliances,Spare Parts,3,0,74100,32604
 Twenty,23/05/2020,MercadoLibre,Caribe,Atlantico,Barranquilla,Envia+4,Industrial,Drones,9,0.2,3959856,296989.2
-Twenty,23/05/2020,MercadoLibre,Amazonia,Amazonas,La Chorrera,Envia+4,Trade Equipment,Thermal paper,1,0,9960,4880.4
+Twenty,23/05/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Thermal paper,1,0,9960,4880.4
 Twenty,23/05/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Industrial,Projectors,4,0.4,16799952,2239993.6
 Twenty,23/05/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Shelving,5,0.7,62310,-23885.5
 Twenty,23/05/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Thermal paper,2,0.2,20736,7257.6
@@ -4729,7 +4729,7 @@ Twenty,28/05/2020,MercadoLibre,Caribe,Bolivar,El Carmen de Bolivar,Envia+4,Trade
 Twenty,28/05/2020,MercadoLibre,Andina,Antioquia,Medellin,Envia+4,Industrial,Laser Cut,2,0.2,1116800,83760
 Twenty,28/05/2020,MercadoLibre,Andina,Bogota,Bogota DC,Servientrega-2,Trade Equipment,Furnitures,5,0,109800,30744
 Twenty,28/05/2020,MercadoLibre,Caribe,Atlantico,Polonuevo,Envia+4,Industrial,Drones,1,0.2,572800,50120
-Twenty,29/05/2020,MercadoLibre,Amazonia,Amazonas,El Encanto,Servientrega+3,Industrial,Drones,5,0,1959900,548772
+Twenty,29/05/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Industrial,Drones,5,0,1959900,548772
 Twenty,29/05/2020,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia+4,Trade Equipment,Shelving,2,0.8,4592,-3903.2
 Twenty,29/05/2020,MercadoLibre,Andina,Antioquia,Santa Barbara,Envia+4,Trade Equipment,Shelving,2,0.2,25664,8661.6
 Twenty,29/05/2020,MercadoLibre,Caribe,Sucre,Sincelejo,Envia+4,Trade Equipment,Strip Printer,2,0.2,8896,667.2
@@ -5471,9 +5471,9 @@ Twenty,17/09/2020,MercadoLibre,Andina,Boyaca,Tunja,Servientrega+3,Trade Equipmen
 Twenty,17/09/2020,MercadoLibre,Pacifica,Valle del Cauca,Jamundi,Envia+4,Trade Equipment,Dust Extractors,4,0,24640,11827.2
 Twenty,18/09/2020,MercadoLibre,Orinoquia,Meta,Villavicencio,Servientrega-2,Trade Equipment,Shelving,2,0.8,2224,-1890.4
 Twenty,18/09/2020,MercadoLibre,Caribe,Bolivar,Cartagena,Envia+4,Home appliances,Washing machines,4,0.45,766876,-33463.68
-Twenty,18/09/2020,MercadoLibre,Amazonia,Amazonas,Tarapaca,Envia+4,Home appliances,Refrigerators,1,0,701960,168470.4
-Twenty,18/09/2020,MercadoLibre,Amazonia,Amazonas,Tarapaca,Envia+4,Trade Equipment,Thermal paper,2,0,26160,12033.6
-Twenty,18/09/2020,MercadoLibre,Amazonia,Amazonas,Tarapaca,Envia+4,Trade Equipment,Merchandise Labeling,4,0,1800160,234020.8
+Twenty,18/09/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Home appliances,Refrigerators,1,0,701960,168470.4
+Twenty,18/09/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Thermal paper,2,0,26160,12033.6
+Twenty,18/09/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Merchandise Labeling,4,0,1800160,234020.8
 Twenty,18/09/2020,MercadoLibre,Andina,Boyaca,Sogamoso,Envia-3,Home appliances,Spare Parts,3,0.2,10704,3211.2
 Twenty,18/09/2020,MercadoLibre,Andina,Boyaca,Sogamoso,Envia-3,Home appliances,Refrigerators,2,0.3,198744,-7098
 Twenty,18/09/2020,MercadoLibre,Andina,Boyaca,Sogamoso,Envia-3,Trade Equipment,Strip Printer,1,0.2,5344,734.8
@@ -5499,7 +5499,7 @@ Twenty,19/09/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia-3,Home applian
 Twenty,19/09/2020,MercadoLibre,Pacifica,Narino,Barbacoas,Servientrega+3,Trade Equipment,Shelving,2,0,34760,17380
 Twenty,19/09/2020,MercadoLibre,Andina,Antioquia,Bello,Servientrega+3,Trade Equipment,Furnitures,3,0,12480,3744
 Twenty,19/09/2020,MercadoLibre,Andina,Risaralda,Pereira,Envia-3,Trade Equipment,Merchandise Labeling,2,0,139040,34760
-Twenty,19/09/2020,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia-3,Trade Equipment,Shelving,3,0,183360,91680
+Twenty,19/09/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia-3,Trade Equipment,Shelving,3,0,183360,91680
 Twenty,20/09/2020,MercadoLibre,Andina,Antioquia,Bello,Envia+4,Trade Equipment,Thermal paper,9,0,131580,60526.8
 Twenty,20/09/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Shelving,7,0.7,22176,-8131.2
 Twenty,20/09/2020,MercadoLibre,Andina,Antioquia,Bello,Envia+4,Trade Equipment,Strip Printer,4,0,23520,6350.4
@@ -5594,9 +5594,9 @@ Twenty,28/09/2020,MercadoLibre,Caribe,Atlantico,Soledad,Envia-3,Trade Equipment,
 Twenty,29/09/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia-3,Trade Equipment,Dust Extractors,4,0.2,31872,10358.4
 Twenty,29/09/2020,MercadoLibre,Pacifica,Narino,Pasto,Envia-3,Trade Equipment,Strip Printer,7,0,81760,21257.6
 Twenty,29/09/2020,MercadoLibre,Andina,Antioquia,Medellin,Servientrega+3,Trade Equipment,Thermal paper,1,0,37940,18211.2
-Twenty,29/09/2020,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia+4,Industrial,Printers,3,0,419940,142779.6
+Twenty,29/09/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Industrial,Printers,3,0,419940,142779.6
 Twenty,29/09/2020,MercadoLibre,Orinoquia,Meta,Acacias,Envia+4,Trade Equipment,Shelving,9,0.8,22788,-17660.7
-Twenty,29/09/2020,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia+4,Trade Equipment,Strip Printer,9,0,51840,15552
+Twenty,29/09/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Strip Printer,9,0,51840,15552
 Twenty,29/09/2020,MercadoLibre,Andina,Antioquia,Bello,Servientrega+3,Trade Equipment,Shelving,7,0.2,42672,15468.6
 Twenty,29/09/2020,MercadoLibre,Orinoquia,Arauca,Arauca,Servientrega+3,Trade Equipment,Strip Printer,4,0.2,20992,2361.6
 Twenty,29/09/2020,MercadoLibre,Andina,Boyaca,Tunja,Envia+4,Industrial,Drones,3,0.2,1718400,150360
@@ -6069,10 +6069,10 @@ Twenty,25/11/2020,MercadoLibre,Andina,Boyaca,Aquitania,Envia+4,Industrial,Laser 
 Twenty,25/11/2020,MercadoLibre,Andina,Boyaca,Aquitania,Envia+4,Industrial,Printers,3,0.2,119952,23990.4
 Twenty,25/11/2020,MercadoLibre,Amazonia,Amazonas,La Pedrera,Envia+4,Trade Equipment,Merchandise Labeling,7,0,146720,39614.4
 Twenty,25/11/2020,MercadoLibre,Andina,Antioquia,Medellin,Envia+4,Home appliances,Refrigerators,3,0.2,388704,38870.4
-Twenty,26/11/2020,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia-3,Trade Equipment,Thermal paper,7,0,141960,69560.4
+Twenty,26/11/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia-3,Trade Equipment,Thermal paper,7,0,141960,69560.4
 Twenty,26/11/2020,MercadoLibre,Orinoquia,Arauca,Tame,Envia+4,Trade Equipment,Shelving,7,0.7,9072,-3326.4
 Twenty,26/11/2020,MercadoLibre,Andina,Antioquia,Bello,Envia-3,Trade Equipment,Shelving,2,0.2,9088,3294.4
-Twenty,26/11/2020,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia-3,Industrial,Laser Cut,8,0,6080000,2918400
+Twenty,26/11/2020,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia-3,Industrial,Laser Cut,8,0,6080000,2918400
 Twenty,26/11/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Trade Equipment,Shelving,1,0.7,12588,-4196
 Twenty,26/11/2020,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Industrial,Drones,3,0.4,989964,-23099.16
 Twenty,26/11/2020,MercadoLibre,Pacifica,Valle del Cauca,Cali,Envia+4,Trade Equipment,Shelving,4,0.2,41408,15528
@@ -6545,7 +6545,7 @@ Twenty one,24/01/2021,MercadoLibre,Caribe,Cesar,Chimichagua,Envia+4,Trade Equipm
 Twenty one,24/01/2021,MercadoLibre,Andina,Antioquia,Envigado,Envia+4,Trade Equipment,Payment Machines,3,0,51720,13447.2
 Twenty one,24/01/2021,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Trade Equipment,Shelving,2,0.2,1347136,505176
 Twenty one,24/01/2021,MercadoLibre,Andina,Antioquia,Envigado,Envia+4,Industrial,Drones,3,0.2,220704,16552.8
-Twenty one,26/01/2021,MercadoLibre,Amazonia,Amazonas,Puerto Santander,Servientrega+3,Trade Equipment,Strip Printer,7,0,30940,8353.8
+Twenty one,26/01/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Trade Equipment,Strip Printer,7,0,30940,8353.8
 Twenty one,26/01/2021,MercadoLibre,Andina,Santander,Barbosa,Envia-3,Trade Equipment,Shelving,5,0.7,17190,-6303
 Twenty one,26/01/2021,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia-3,Trade Equipment,Merchandise Labeling,2,0.2,36320,3632
 Twenty one,26/01/2021,MercadoLibre,Andina,Antioquia,Bello,Envia+4,Trade Equipment,Lights,8,0,23680,11366.4
@@ -6673,7 +6673,7 @@ Twenty one,10/02/2021,MercadoLibre,Orinoquia,Arauca,Saravena,Servientrega+3,Trad
 Twenty one,10/02/2021,MercadoLibre,Caribe,Sucre,Corozal,Envia-3,Home appliances,Washing machines,7,0.4,4628232,-200556.72
 Twenty one,10/02/2021,MercadoLibre,Andina,Boyaca,Sogamoso,Envia+4,Trade Equipment,Shelving,8,0.7,41712,-16684.8
 Twenty one,10/02/2021,MercadoLibre,Caribe,Sucre,Corozal,Envia-3,Home appliances,Spare Parts,2,0.2,39520,11856
-Twenty one,10/02/2021,MercadoLibre,Amazonia,Amazonas,El Encanto,Servientrega+3,Home appliances,Spare Parts,2,0,20320,6908.8
+Twenty one,10/02/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Servientrega+3,Home appliances,Spare Parts,2,0,20320,6908.8
 Twenty one,10/02/2021,MercadoLibre,Andina,Boyaca,Tunja,Envia+4,Home appliances,Air-conditioning,6,0.7,435528,-76943.28
 Twenty one,10/02/2021,MercadoLibre,Andina,Boyaca,Tunja,Envia+4,Trade Equipment,Furnitures,6,0.2,78144,8791.2
 Twenty one,10/02/2021,MercadoLibre,Amazonia,Caqueta,Valparaiso,Servientrega-2,Trade Equipment,Shelving,2,0.7,50328,-16776
@@ -7118,7 +7118,7 @@ Twenty one,5/04/2021,MercadoLibre,Caribe,Atlantico,Barranquilla,Servientrega+3,T
 Twenty one,5/04/2021,MercadoLibre,Orinoquia,Meta,Puerto Concordia,Envia-3,Trade Equipment,Shelving,7,0.8,85232,-13637.12
 Twenty one,6/04/2021,MercadoLibre,Andina,Norte de Santander,Lourdes,Envia+4,Home appliances,Spare Parts,2,0.2,63968,3998
 Twenty one,6/04/2021,MercadoLibre,Andina,Norte de Santander,Lourdes,Envia+4,Industrial,Drones,2,0.2,143968,50388.8
-Twenty one,6/04/2021,MercadoLibre,Amazonia,Amazonas,La Chorrera,Envia+4,Trade Equipment,Thermal paper,2,0,24960,11232
+Twenty one,6/04/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Thermal paper,2,0,24960,11232
 Twenty one,6/04/2021,MercadoLibre,Andina,Quindio,Armenia,Envia+4,Trade Equipment,Shelving,2,0.7,19524,-6833.4
 Twenty one,6/04/2021,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia+4,Trade Equipment,Shelving,3,0.8,51360,-39804
 Twenty one,6/04/2021,MercadoLibre,Andina,Antioquia,Medellin,Envia+4,Trade Equipment,Shelving,6,0.2,51648,18722.4
@@ -7207,8 +7207,8 @@ Twenty one,16/04/2021,MercadoLibre,Caribe,Atlantico,Barranquilla,Envia+4,Trade E
 Twenty one,16/04/2021,MercadoLibre,Andina,Boyaca,Aquitania,Envia-3,Trade Equipment,Shelving,3,0.7,14436,-5533.8
 Twenty one,16/04/2021,MercadoLibre,Andina,Antioquia,Envigado,Envia+4,Trade Equipment,Merchandise Labeling,4,0,411840,4118.4
 Twenty one,16/04/2021,MercadoLibre,Andina,Antioquia,Envigado,Envia+4,Home appliances,Air-conditioning,1,0.15,205666,-6049
-Twenty one,16/04/2021,MercadoLibre,Amazonia,Amazonas,Puerto Santander,Envia-3,Trade Equipment,Furnitures,4,0,954480,19089.6
-Twenty one,16/04/2021,MercadoLibre,Amazonia,Amazonas,Puerto Santander,Envia-3,Industrial,Printers,2,0,51960,3117.6
+Twenty one,16/04/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia-3,Trade Equipment,Furnitures,4,0,954480,19089.6
+Twenty one,16/04/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia-3,Industrial,Printers,2,0,51960,3117.6
 Twenty one,16/04/2021,MercadoLibre,Andina,Bogota,Bogota DC,Servientrega+3,Trade Equipment,Shelving,3,0.2,19824,6690.6
 Twenty one,16/04/2021,MercadoLibre,Caribe,Atlantico,Tubara,Envia+4,Trade Equipment,Shelving,5,0.8,19960,-16467
 Twenty one,16/04/2021,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia+4,Trade Equipment,Merchandise Labeling,2,0.2,65088,-7729.2
@@ -8020,7 +8020,7 @@ Twenty one,9/08/2021,MercadoLibre,Andina,Santander,Bucaramanga,Envia+4,Industria
 Twenty one,9/08/2021,MercadoLibre,Andina,Boyaca,Nobsa,Envia+4,Industrial,Printers,1,0.2,18192,3411
 Twenty one,9/08/2021,MercadoLibre,Andina,Boyaca,Raquira,Servientrega+3,Industrial,Printers,4,0.2,233664,67178.4
 Twenty one,9/08/2021,MercadoLibre,Orinoquia,Meta,Villavicencio,Servientrega+3,Industrial,Printers,6,0.2,170400,40470
-Twenty one,9/08/2021,MercadoLibre,Amazonia,Amazonas,Puerto Alegria,Envia+4,Trade Equipment,Shelving,7,0,67480,31040.8
+Twenty one,9/08/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Shelving,7,0,67480,31040.8
 Twenty one,9/08/2021,MercadoLibre,Orinoquia,Meta,Puerto Concordia,Envia-3,Industrial,Projectors,2,0.2,639968,215989.2
 Twenty one,9/08/2021,MercadoLibre,Orinoquia,Meta,Puerto Concordia,Envia-3,Trade Equipment,Lights,5,0.2,91840,30996
 Twenty one,9/08/2021,MercadoLibre,Orinoquia,Meta,Puerto Concordia,Envia-3,Home appliances,Spare Parts,2,0.6,42368,-11651.2
@@ -8100,7 +8100,7 @@ Twenty one,17/08/2021,MercadoLibre,Andina,Santander,Bucaramanga,Servientrega+3,H
 Twenty one,17/08/2021,MercadoLibre,Andina,Antioquia,Nechi,Envia+4,Trade Equipment,Weigh Scales,2,0,46720,23360
 Twenty one,17/08/2021,MercadoLibre,Andina,Antioquia,Nechi,Envia+4,Industrial,Drones,3,0.2,143952,17994
 Twenty one,17/08/2021,MercadoLibre,Andina,Antioquia,Nechi,Envia+4,Trade Equipment,Thermal paper,2,0,17120,7704
-Twenty one,17/08/2021,MercadoLibre,Amazonia,Amazonas,Puerto Narino,Envia+4,Trade Equipment,Shelving,3,0,125880,60422.4
+Twenty one,17/08/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Shelving,3,0,125880,60422.4
 Twenty one,17/08/2021,MercadoLibre,Andina,Antioquia,Nechi,Envia+4,Trade Equipment,Payment Machines,9,0,5036580,1309510.8
 Twenty one,17/08/2021,MercadoLibre,Andina,Antioquia,Nechi,Envia+4,Trade Equipment,Merchandise Labeling,3,0,1081140,281096.4
 Twenty one,17/08/2021,MercadoLibre,Orinoquia,Casanare,Yopal,Envia-3,Trade Equipment,Shelving,3,0,125880,60422.4
@@ -8866,7 +8866,7 @@ Twenty one,6/11/2021,MercadoLibre,Orinoquia,Arauca,Tame,Envia-3,Trade Equipment,
 Twenty one,6/11/2021,MercadoLibre,Orinoquia,Arauca,Tame,Envia-3,Trade Equipment,Strip Printer,5,0.2,176080,13206
 Twenty one,6/11/2021,MercadoLibre,Orinoquia,Arauca,Tame,Envia-3,Trade Equipment,Strip Printer,1,0.2,31744,3968
 Twenty one,6/11/2021,MercadoLibre,Orinoquia,Arauca,Tame,Envia-3,Trade Equipment,Merchandise Labeling,3,0.2,431184,-48508.2
-Twenty one,6/11/2021,MercadoLibre,Amazonia,Amazonas,Tarapaca,Envia+4,Trade Equipment,Strip Printer,2,0,7520,2180.8
+Twenty one,6/11/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Trade Equipment,Strip Printer,2,0,7520,2180.8
 Twenty one,6/11/2021,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Trade Equipment,Thermal paper,2,0,75880,36422.4
 Twenty one,6/11/2021,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Trade Equipment,Shelving,2,0.2,27808,9037.6
 Twenty one,6/11/2021,MercadoLibre,Pacifica,Valle del Cauca,Cali,Servientrega+3,Industrial,Laser Cut,5,0.2,771600,260415
@@ -9396,7 +9396,7 @@ Twenty one,22/12/2021,MercadoLibre,Andina,Risaralda,Pereira,Servientrega+3,Home 
 Twenty one,22/12/2021,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia+4,Trade Equipment,Thermal paper,5,0.2,51840,18144
 Twenty one,22/12/2021,MercadoLibre,Andina,Norte de Santander,Cucuta,Envia+4,Trade Equipment,Shelving,6,0.7,57564,-21106.8
 Twenty one,22/12/2021,MercadoLibre,Orinoquia,Meta,Villavicencio,Envia+4,Trade Equipment,Thermal paper,5,0.2,151760,53116
-Twenty one,22/12/2021,MercadoLibre,Amazonia,Amazonas,Puerto Alegria,Envia+4,Home appliances,Refrigerators,2,0,283920,70980
+Twenty one,22/12/2021,MercadoLibre,Amazonia,Cundinamarca,Fusagasuga,Envia+4,Home appliances,Refrigerators,2,0,283920,70980
 Twenty one,22/12/2021,MercadoLibre,Orinoquia,Arauca,Saravena,Servientrega+3,Home appliances,Washing machines,2,0.5,365100,-27017.4
 Twenty one,22/12/2021,MercadoLibre,Andina,Antioquia,Medellin,Envia-3,Industrial,Printers,5,0,949900,284970
 Twenty one,22/12/2021,MercadoLibre,Caribe,Sucre,Santiago de Tolu,Envia+4,Home appliances,Washing machines,6,0.4,1869912,-49864.32
@@ -9489,8 +9489,8 @@ Twenty one,29/12/2021,MercadoLibre,Caribe,Cordoba,Buenavista,Servientrega+3,Home
 Twenty one,29/12/2021,MercadoLibre,Caribe,Cordoba,Buenavista,Servientrega+3,Home appliances,Refrigerators,3,0,517500,155250
 Twenty one,30/12/2021,MercadoLibre,Pacifica,Narino,Pasto,Envia+4,Trade Equipment,Payment Machines,2,0,418600,113022
 Twenty one,30/12/2021,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Home appliances,Air-conditioning,4,0.2,646272,24235.2
-Twenty one,30/12/2021,MercadoLibre,Andina,Bogota,Bogota DC,Envia+4,Industrial,Drones,7,0,181860,5455.8
-Twenty one,30/12/2021,MercadoLibre,Andina,Bogota,Bogota DC,Envia-3,Trade Equipment,Shelving,1,0.2,6096,2133.6
+Twenty one,30/12/2021,MercadoLibre,Orinoquia,Vichada,Puerto Carreno,Envia+4,Industrial,Drones,7,0,181860,5455.8
+Twenty one,30/12/2021,MercadoLibre,Orinoquia,Vichada,Puerto Carreno,Envia-3,Trade Equipment,Shelving,1,0.2,6096,2133.6
 Twenty one,30/12/2021,MercadoLibre,Caribe,Bolivar,Maria La Baja,Envia+4,Trade Equipment,Shelving,2,0.7,8172,-2996.4
 Twenty one,30/12/2021,MercadoLibre,Andina,Norte de Santander,Sardinata,Envia+4,Trade Equipment,Shelving,3,0.7,8190,-2730
 Twenty one,30/12/2021,MercadoLibre,Amazonia,Caqueta,Solano,Envia+4,Trade Equipment,Lights,3,0.2,6048,-604.8
