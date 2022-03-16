@@ -1,13 +1,15 @@
 # EDA on ResetStore-Mercadolibre Sales: Project Overview
 ## Table of Contents
-* [Background](#background)
-* [Questions](#questions)
-  * [Which side wins more?](#which-side-wins-more)
-  * [What is the average game length?](#average-game-length)
-  * [What are the differences between blue and red side?](#blue-vs-red)
-  * [What factors are most impactful to winning? (Win Correlations)](#win-correlations)
-* [Usage](#usage)
-## TABLEAU
+* [Background and objectives](#background)
+* [Important EDA Questions](#important-eda-questions)
+* [Dataset Features and Descripment](#dataset-features-and-descripment)
+* [EDA Steps](#eda-steps)
+* [Important Graphs](#important-graphs)
+* [Important Business Inferences](#important-business-inferences)
+* [TABLEAU Dashboard](#tableau-dashboard)
+
+
+## TABLEAU Dashboard
 
 [here](https://public.tableau.com/views/ResetStoreColombia/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
