@@ -10,7 +10,7 @@
 
 ## Background 
 
-Resetstore is a store that operates in Mercadolibre Colombia and makes shipments to the whole country. This company has several active advertising campaigns in the different departments and it is required to observe the results, get business inferences and take decisions. For this reason, this project focuses on analyze the sales, profit using Statistics and Visualization techniques. In addition, a projection...
+Resetstore is a store that operates in Mercadolibre Colombia and makes shipments to the whole country. This company has several active advertising campaigns in the different departments and it is required to observe the results, get business inferences and take decisions. For this reason, this project focuses on analyze the sales, profit using Statistics and Visualization techniques. You can see the analysis process in [Spanish](https://nbviewer.org/github/davidcamilo0710/Mercadolibre_Sales_EDA/blob/master/Ventas_ResetStore_EDA.ipynb) and in [English](https://nbviewer.org/github/davidcamilo0710/Mercadolibre_Sales_EDA/blob/master/Sales_ResetStore_EDA.ipynb) and the visualization in Tableau [here](https://public.tableau.com/views/ResetStoreColombia/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link). In addition, a projection...
 
 ## Important EDA Questions
 
