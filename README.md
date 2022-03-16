@@ -1,4 +1,4 @@
-# ResetStore - Mercadolibre Sales EDA
+# EDA on ResetStore - Mercadolibre Sales: Project Overview
 
 ## TABLEAU
 
